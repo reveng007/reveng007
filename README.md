@@ -11,7 +11,7 @@
 Hi, I'm Soumyanil (aka reveng007), currently an Undergraduate BTech student, pursuing engineering in electronics and communication engineering. Through I have an electronics background, I have an immense interest in information security.
 
 I'm just learning new stuff day in and day out. I'm passionate about offensive security more than defensive.
-I like to play CTFs, solved 50+ in TryHackMe till now.
+I like to play CTFs, solved 50+ rooms in TryHackMe till now.
 Now a day, I am spending most of building scripts/projects and digging deep into windows sys internals.
 
 Apart from these, I like to read blogs on malware developments, reverse engineering, listen rap songs. 

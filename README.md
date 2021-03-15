@@ -24,9 +24,15 @@ Apart from these, I like to read blogs on malware developments, reverse engineer
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 
 ## Statistics
-![reveng007's github stats](https://github-readme-stats.vercel.app/api?username=reveng007&show_icons=true&count_private=true&theme=chartreuse-dark)
+<a href="https://github.com/reveng007">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=reveng007&show_icons=true&include_all_commits=true&theme=chartreuse-dark" alt="Soumyani1's github stats" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reveng007&hide=html&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/reveng007">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reveng007&layout=compact&theme=chartreuse-dark" />
+</a>
+
 
 - CTF Platform: 
  ➡ [TryHackMe](https://tryhackme.com/p/SoumyanilBiswas)

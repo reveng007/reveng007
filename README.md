@@ -16,6 +16,9 @@ Now a day, I am spending most of building scripts/projects and digging deep into
 
 Apart from these, I like to read blogs on malware developments, reverse engineering, listen rap songs. 
 
+- CTF Platform: 
+ ➡ [TryHackMe](https://tryhackme.com/p/SoumyanilBiswas)
+
 ## Languages
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
@@ -33,9 +36,6 @@ Apart from these, I like to read blogs on malware developments, reverse engineer
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reveng007&layout=compact&theme=chartreuse-dark" />
 </a>
 
-
-- CTF Platform: 
- ➡ [TryHackMe](https://tryhackme.com/p/SoumyanilBiswas)
 
 
 <!--

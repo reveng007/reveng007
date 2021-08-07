@@ -9,10 +9,10 @@
 
 ## About Me:
 
-Hi, I'm Soumyanil (aka reveng007), Undergraduate. I have an immense interest in information security.
+Hi, I'm Soumyanil (aka reveng007), Undergraduate. I have an immense interest in OffSec and also do RE, in my leisure.
 
 I'm just learning new stuff day in and day out. I'm passionate about offensive security more than defensive.
-I like to play CTFs, solved 100+ rooms in TryHackMe till now.
+I play CTFs, solved 100+ rooms in TryHackMe. 
 <!-- Now a day, I am spending most of building scripts/projects and digging deep into windows sys internals. -->
 
 <!-- Apart from these, I like to read blogs on malware developments, reverse engineering, listen rap songs. -->

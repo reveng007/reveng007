@@ -10,7 +10,7 @@
 ## About Me:
 
 Hi, I'm Soumyanil (aka reveng007), Undergraduate. I have an immense interest in OffSec and also do RE, in my leisure.
-I play CTFs in THM, OverTheWire, pwnable.kr. Solved 100+ rooms in TryHackMe. 
+I played CTFs in THM, OverTheWire, pwnable.kr. Solved 100+ rooms in TryHackMe. Recently started HTB.
 <!-- Now a day, I am spending most of building scripts/projects and digging deep into windows sys internals. -->
 
 <!-- Apart from these, I like to read blogs on malware developments, reverse engineering, listen rap songs. -->

@@ -36,7 +36,7 @@ I played CTFs in THM, OverTheWire, pwnable.kr. Solved 100+ rooms in TryHackMe. R
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) -->
 
-## Statistics
+## Github Statistics:
 
 ![](https://komarev.com/ghpvc/?username=reveng007&style=flat-square)
 

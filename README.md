@@ -37,6 +37,9 @@ I played CTFs in THM, OverTheWire, pwnable.kr. Solved 100+ rooms in TryHackMe. R
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) -->
 
 ## Statistics
+
+![](https://komarev.com/ghpvc/?username=reveng007&style=flat-square)
+
 <a href="https://github.com/reveng007">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=reveng007&show_icons=true&include_all_commits=true&theme=chartreuse-dark" alt="Soumyani1's github stats" />
 </a>

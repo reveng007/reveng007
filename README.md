@@ -15,8 +15,11 @@ I played CTFs in THM, OverTheWire, pwnable.kr. Solved 100+ rooms in TryHackMe. R
 
 <!-- Apart from these, I like to read blogs on malware developments, reverse engineering, listen rap songs. -->
 
-- CTF Platform: 
- ➡ [TryHackMe](https://tryhackme.com/p/SoumyanilBiswas)
+- CTF Platform:
+ 
+    - [TryHackMe](https://tryhackme.com/p/SoumyanilBiswas)
+    
+    <img src="https://tryhackme-badges.s3.amazonaws.com/SoumyanilBiswas.png" alt="TryHackMe">
 
 
 ## Languages:

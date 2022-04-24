@@ -20,7 +20,7 @@ I played CTFs in THM, OverTheWire, pwnable.kr. Solved 100+ rooms in TryHackMe. R
     - [TryHackMe](https://tryhackme.com/p/SoumyanilBiswas)
     
     <!--<img src="https://tryhackme-badges.s3.amazonaws.com/SoumyanilBiswas.png" alt="TryHackMe">-->
-    <script src="https://tryhackme.com/badge/85058"></script
+    <script src="https://tryhackme.com/badge/85058"></script>
 
 
 ## Languages:

@@ -46,7 +46,7 @@ I played CTFs in THM, OverTheWire, pwnable.kr. Solved 100+ rooms in TryHackMe. R
 <!-- ![](https://komarev.com/ghpvc/?username=reveng007&style=flat-square) -->
 
 <a href="https://github.com/reveng007">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=reveng007&show_icons=true&include_all_commits=true&theme=chartreuse-dark&exclude_repo=TryHackMe,HTB,Pentesterlab,Pages,blog,Executable_Files" alt="Soumyani1's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=reveng007&show_icons=true&include_all_commits=true&theme=chartreuse-dark&exclude_repo=TryHackMe,HTB,Pentesterlab,Pages,blog,Executable_Files,Insider" alt="Soumyani1's github stats" />
 </a>
 
 <a href="https://github.com/reveng007">

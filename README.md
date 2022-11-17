@@ -12,17 +12,18 @@ Check out: [https://reveng007.github.io](https://reveng007.github.io/)
 ## About Me:
 
 Hi, I'm Soumyanil (aka reveng007), Undergraduate. I have an immense interest in OffSec and also do RE, in my leisure.
-I played CTFs in THM, OverTheWire, pwnable.kr. Solved 100+ rooms in TryHackMe. Recently started HTB.
+I have played CTFs in THM, OverTheWire, pwnable.kr. Solved 100+ rooms in TryHackMe. 
+<!-- Recently started HTB. -->
 <!-- Now a day, I am spending most of building scripts/projects and digging deep into windows sys internals. -->
 
 <!-- Apart from these, I like to read blogs on malware developments, reverse engineering, listen rap songs. -->
 
-- CTF Platform:
+<!-- - CTF Platform:
  
     - [TryHackMe](https://tryhackme.com/p/SoumyanilBiswas)
     
     <img src="https://tryhackme-badges.s3.amazonaws.com/SoumyanilBiswas.png" alt="TryHackMe">
-
+-->
 
 ## Languages: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

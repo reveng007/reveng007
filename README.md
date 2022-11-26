@@ -47,7 +47,7 @@ Hi, I'm Soumyanil (aka reveng007), currently an Undergraduate. I have an immense
 
 ## Github Statistics:
 
-![](https://komarev.com/ghpvc/?username=reveng007&style=flat-square)
+<!-- ![](https://komarev.com/ghpvc/?username=reveng007&style=flat-square) -->
 
 <a href="https://github.com/reveng007">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=reveng007&show_icons=true&include_all_commits=true&theme=chartreuse-dark&exclude_repo=TryHackMe,HTB,Pentesterlab,Pages,blog,Executable_Files,Insider" alt="Soumyani1's github stats" />

@@ -12,7 +12,7 @@
 Check out: [https://reveng007.github.io](https://reveng007.github.io/)
 ## About Me:
 
-Hi, I'm Soumyanil (aka reveng007). I have an immense interest in OffSec, MalwareDev and RedTeaming. I spend most of my time reading about malware devlopment and implementing them either in C, C++ or C#. Also, sometimes tinker around with little bit of Asm. I have played CTFs in THM, OverTheWire, pwnable.kr. Solved 100+ rooms in TryHackMe. 
+Hi, I'm Soumyanil (aka reveng007). I have an immense interest in OffSec, MalwareDev and RedTeaming. I spend most of my time reading about malware devlopment and implementing them either in C, C++ or C#. Also, sometimes tinker around with little bit of Asm. I have played CTFs in THM, OverTheWire, pwnable.kr and HTB. Solved 100+ rooms in TryHackMe. 
 
 <!-- also do RE, in my leisure. -->
 

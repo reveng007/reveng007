@@ -55,7 +55,7 @@ Hi, I'm Soumyanil (aka reveng007). I have an immense interest in OffSec, Malware
 
 <a href="https://github.com/reveng007">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reveng007&layout=compact&theme=chartreuse-dark&exclude_repo=TryHackMe,HTB,Pentesterlab,Pages,blog" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reveng007&layout=compact&theme=chartreuse-dark&exclude_repo=TryHackMe,HTB,Pentesterlab,Pages,blog,Executable_Files,Insider" />
 </a>
 
 

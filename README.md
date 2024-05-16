@@ -14,13 +14,13 @@
 Check out: [https://reveng007.github.io](https://reveng007.github.io/)
 ## About Me:
 
-- Hi, I'm Soumyanil (aka reveng007).
+- Hi, this is Soumyanil (aka reveng007).
 - Currently into Security Research. Though I have an electronics background, I am into information security.
 - Former Speaker BSides Singapore 2023, [Black Hat Asia 2024](https://www.blackhat.com/asia-24/arsenal/schedule/presenters.html#soumyanil-biswas-47163), [Black Hat USA 2024](https://www.blackhat.com/us-24/arsenal/schedule/presenters.html#soumyanil-biswas-47163) Presenter.
 - Also got invitation as a speaker from BSides St. Pete (Florida) 2023, BSides Prishtina (Kosovo) 2023/2024, BSides Boise (Idaho) 2024, Hackmiami Conference XI 2024 and ConfidenceConf 2024, Krakow, Poland.
-- I'm learning new stuff day in and day out. I'm passionate about offensive security more than defensive.
-- I have played CTFs, solved 100+ rooms in TryHackMe till now. I have CRTP.
-- Now a day, I am spending most of the time building scripts/open source malware dev evasion based projects, digging deep into windows system internals, building scripts on On-prem and Cloud-based (like, AWS) Attack Vectors.
+- He is learning new stuff day in and day out. He is passionate about offensive security more than defensive.
+- He has played CTFs, solved 100+ rooms in TryHackMe till now. He has CRTP.
+- Now a day, he spends most of the time building scripts/open source malware dev evasion based projects, digging deep into windows system internals, building scripts on On-prem and Cloud-based (like, AWS) Attack Vectors.
 
 
 <!-- also do RE, in my leisure. -->

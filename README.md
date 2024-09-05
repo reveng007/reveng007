@@ -16,9 +16,8 @@ Check out: [https://reveng007.github.io](https://reveng007.github.io/)
 
 - Hi, this is Soumyanil (aka reveng007).
 - Currently into Security Research. Though I have an electronics background, I am into information security.
-- Former [Black Hat Asia](https://www.blackhat.com/asia-24/arsenal/schedule/presenters.html#soumyanil-biswas-47163), [USA](https://www.blackhat.com/us-24/arsenal/schedule/presenters.html#soumyanil-biswas-47163), [SecTor 2024](https://www.blackhat.com/sector/2024/arsenal/schedule/presenters.html#soumyanil-biswas-47163), Wild West Hacking Fest 2024 Arsenal Presenter and Former Speaker BSides Singapore 2023.
-- He is learning new stuff day in and day out. He is passionate about offensive security more than defensive.
-- He has played CTFs, solved 100+ rooms in TryHackMe till now. He has CRTP.
+- Former [Black Hat Asia](https://www.blackhat.com/asia-24/arsenal/schedule/presenters.html#soumyanil-biswas-47163), [USA](https://www.blackhat.com/us-24/arsenal/schedule/presenters.html#soumyanil-biswas-47163), [SecTor](https://www.blackhat.com/sector/2024/arsenal/schedule/presenters.html#soumyanil-biswas-47163) & Europe 2024, Wild West Hacking Fest 2024 Arsenal Presenter and Former Speaker BSides Singapore 2023.
+- He has CRTP.
 - Now a day, he spends most of the time building scripts/open source malware dev evasion based projects, digging deep into windows system internals, building automation scripts on On-prem and Cloud-based (like, AWS) Attack Vectors.
 
 

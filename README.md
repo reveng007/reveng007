@@ -51,19 +51,18 @@ Check out: [https://reveng007.github.io](https://reveng007.github.io/)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) -->
 
-## Github Statistics:
 
-<!-- ![](https://komarev.com/ghpvc/?username=reveng007&style=flat-square) -->
+<!--
+## Github Statistics:
 
 <a href="https://github.com/reveng007">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=reveng007&show_icons=true&include_all_commits=true&theme=chartreuse-dark&exclude_repo=TryHackMe,HTB,Pentesterlab,Pages,blog,Executable_Files,Insider" alt="Soumyani1's github stats" />
 </a>
 
 <a href="https://github.com/reveng007">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reveng007&layout=compact&theme=chartreuse-dark&exclude_repo=TryHackMe,HTB,Pentesterlab,Pages,blog,Executable_Files,Insider" />
 </a>
-
+-->
 
 
 <!--

@@ -11,14 +11,15 @@
 
 <!-- <a href="mailto:reveng007@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a> -->
 
-Check out: [https://reveng007.github.io](https://reveng007.github.io/)
+Check out: 
+1. [soumyani1.medium.com/](https://soumyani1.medium.com/)
+2. [reveng007.github.io](https://reveng007.github.io/)
+
 ## About Me:
 
 - Hi, this is Soumyanil (aka reveng007).
-- Currently into Red, Purple Teaming, Pentesting and Theart Hunting/detection.
+- Red mind. Blue mission. | Turning attack tradecraft into detections across Cloud & AD | Purple Teaming · Threat Hunting | Black Hat Speaker | CRTO | CRTP
 - Former [Black Hat Asia](https://www.blackhat.com/asia-24/arsenal/schedule/presenters.html#soumyanil-biswas-47163), [USA](https://www.blackhat.com/us-24/arsenal/schedule/presenters.html#soumyanil-biswas-47163), [SecTor](https://www.blackhat.com/sector/2024/arsenal/schedule/presenters.html#soumyanil-biswas-47163) & [Europe](https://www.blackhat.com/eu-24/arsenal/schedule/index.html#darkwidow-customizable-dropper-tool-targeting-windows-41187) 2024, [Wild West Hacking Fest](https://wildwesthackinfest.com/agenda-for-wwhf-2024-deadwood/) 2024 Arsenal Presenter and Former Speaker BSides Singapore 2023.
-- He has CRTO | CRTP.
-- He spends most of his time detecting Cloud and On-prem based attacks and writes blogs on detection engineering and threat hunting.
 
 <!-- also do RE, in my leisure. -->
 

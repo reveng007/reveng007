@@ -12,7 +12,7 @@
 <!-- <a href="mailto:reveng007@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a> -->
 
 Check out: 
-1. [soumyani1.medium.com/](https://soumyani1.medium.com/)
+1. [soumyani1.medium.com](https://soumyani1.medium.com/)
 2. [reveng007.github.io](https://reveng007.github.io/)
 
 ## About Me:

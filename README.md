@@ -20,7 +20,11 @@ Check out:
 - Hi, this is Soumyanil (aka reveng007).
 - Red mind. Blue mission. | Turning attack tradecraft into detections across Cloud & AD | Purple Teaming · Threat Hunting
 - Former [Black Hat Asia](https://www.blackhat.com/asia-24/arsenal/schedule/presenters.html#soumyanil-biswas-47163), [USA](https://www.blackhat.com/us-24/arsenal/schedule/presenters.html#soumyanil-biswas-47163), [SecTor](https://www.blackhat.com/sector/2024/arsenal/schedule/presenters.html#soumyanil-biswas-47163) & [Europe](https://www.blackhat.com/eu-24/arsenal/schedule/index.html#darkwidow-customizable-dropper-tool-targeting-windows-41187) 2024, [Wild West Hacking Fest](https://wildwesthackinfest.com/agenda-for-wwhf-2024-deadwood/) 2024 Arsenal Presenter and Former Speaker BSides Singapore 2023.
-- [CRTO](https://badges.parchment.eu/public/assertions/pM_ivRXJQ0iuVwdpFVRCdg?identity__email=soumyanilbiswas2018@gmail.com) | [CRTP](https://www.credential.net/cb63b0b6-f75d-4139-adce-03ad8a70af3f#acc.sYie9x0f) | [CARTE](https://www.credential.net/fa0c4e0d-d35a-4e42-bfe1-c4b6a0ac4543#acc.0jXcftNb) | [HackTheBox - Shinra ProLab](https://drive.google.com/file/d/1W8UdRNpnEtBo-ZigF7gy0nti3hKvbCxg/view)
+- Certifications :
+  - [Altered Security Azure Red Team Expert - CARTE](https://www.credential.net/fa0c4e0d-d35a-4e42-bfe1-c4b6a0ac4543#acc.0jXcftNb)
+  - [Certified Red Team Operator - CRTO](https://badges.parchment.eu/public/assertions/pM_ivRXJQ0iuVwdpFVRCdg?identity__email=soumyanilbiswas2018@gmail.com)
+  - [HackTheBox - Shinra ProLab](https://drive.google.com/file/d/1W8UdRNpnEtBo-ZigF7gy0nti3hKvbCxg/view)
+  - [Certified Red Team Professional - CRTP](https://www.credential.net/cb63b0b6-f75d-4139-adce-03ad8a70af3f#acc.sYie9x0f)
 
 <!-- also do RE, in my leisure. -->
 

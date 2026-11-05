@@ -18,7 +18,7 @@ Check out:
 ## About Me:
 
 - Hi, this is Soumyanil (aka reveng007).
-- Red mind. Blue mission. | Turning attack tradecraft into detections across Cloud & AD | Purple Teaming · Threat Hunting
+- Red mind. Blue mission. | Turning attack tradecraft into detections across Cloud & AD | Threat Hunting · Detection Engineering · Purple Teaming
 - Former [Black Hat Asia](https://www.blackhat.com/asia-24/arsenal/schedule/presenters.html#soumyanil-biswas-47163), [USA](https://www.blackhat.com/us-24/arsenal/schedule/presenters.html#soumyanil-biswas-47163), [SecTor](https://www.blackhat.com/sector/2024/arsenal/schedule/presenters.html#soumyanil-biswas-47163) & [Europe](https://www.blackhat.com/eu-24/arsenal/schedule/index.html#darkwidow-customizable-dropper-tool-targeting-windows-41187) 2024, [Wild West Hacking Fest](https://wildwesthackinfest.com/agenda-for-wwhf-2024-deadwood/) 2024 Arsenal Presenter and Former Speaker BSides Singapore 2023.
 - Certifications :
   - [Altered Security Azure Red Team Expert - CARTE](https://www.credential.net/fa0c4e0d-d35a-4e42-bfe1-c4b6a0ac4543#acc.0jXcftNb)
